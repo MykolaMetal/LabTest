@@ -1,0 +1,10 @@
+D:\LabTest\OPI_LAB3\OPI_LAB3\bin\Debug\OPI_LAB3.exe.config
+D:\LabTest\OPI_LAB3\OPI_LAB3\bin\Debug\OPI_LAB3.exe
+D:\LabTest\OPI_LAB3\OPI_LAB3\bin\Debug\OPI_LAB3.pdb
+D:\LabTest\OPI_LAB3\OPI_LAB3\obj\Debug\OPI_LAB3.csproj.AssemblyReference.cache
+D:\LabTest\OPI_LAB3\OPI_LAB3\obj\Debug\OPI_LAB3.Form1.resources
+D:\LabTest\OPI_LAB3\OPI_LAB3\obj\Debug\OPI_LAB3.Properties.Resources.resources
+D:\LabTest\OPI_LAB3\OPI_LAB3\obj\Debug\OPI_LAB3.csproj.GenerateResource.cache
+D:\LabTest\OPI_LAB3\OPI_LAB3\obj\Debug\OPI_LAB3.csproj.CoreCompileInputs.cache
+D:\LabTest\OPI_LAB3\OPI_LAB3\obj\Debug\OPI_LAB3.exe
+D:\LabTest\OPI_LAB3\OPI_LAB3\obj\Debug\OPI_LAB3.pdb
